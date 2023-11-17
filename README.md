@@ -24,7 +24,12 @@
 
 # Introduction
 
+Internet has become a key part of our lives since its creation. So much so, that without access to the Internet, you are completely off the grid. <br>
+In this project, we play the role of a Data Analyst for the fictional company called _`Glide`_
+
 # Context
+
+![ByteBond](./assets/images/logo.jpg)
 
 # KPIs
 
@@ -32,5 +37,4 @@
 
 # References
 
-<p style = 'bottom: 20px;
-            right: 20px;'><a href = #top >back to the top</a></p>
+<a href = #top >Back to the Top</a>
