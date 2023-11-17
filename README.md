@@ -1,3 +1,4 @@
+<span id = 'top'></span>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='python' src='https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=FFFF00&labelColor=0C86EA&color=FFFFFF'/></a>
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=black)
 ![Power BI](https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=Power%20BI&logoColor=yellow)
@@ -9,17 +10,27 @@
 
 ---
 
-<h1 style = 'color: #34B3F1'>Contents</h1>
-<p>
-    <ol>
-        <a><li style = 'font-size: 24px' a href = '# introduction'>Introduction</li></a>
-        <li style = 'font-size: 24px'>Context</li>
-        <li style = 'font-size: 24px'>KPIs</li>
-        <li style = 'font-size: 24px'>Conclusions</li>
-        <li style = 'font-size: 24px'>References</li>
-    </ol>
-</p>
+<h1 style = 'color: #34B3F1' >Contents</h1>
 
-<section id = 'introduction'>
-<p>sgsg egsg weg</p>
-</section>
+### [1. Introduction](#introduction)
+
+### [2. Context](#context)
+
+### [3. KPIs](#kpis)
+
+### [4. Conclusion](#conclusion)
+
+### [5. References](#references)
+
+# Introduction
+
+# Context
+
+# KPIs
+
+# Conclusion
+
+# References
+
+<a href = #top style = 'bottom: 20px;
+            right: 20px;'>back to the top</a>
