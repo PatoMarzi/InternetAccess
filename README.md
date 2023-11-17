@@ -32,5 +32,5 @@
 
 # References
 
-<a href = #top style = 'bottom: 20px;
-            right: 20px;'>back to the top</a>
+<p style = 'bottom: 20px;
+            right: 20px;'><a href = #top >back to the top</a></p>
