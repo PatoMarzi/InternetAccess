@@ -10,29 +10,33 @@
 
 ---
 
-<h1 style = 'color: #34B3F1' >Contents</h1>
+<h1><details><summary><i>📌 Contents</i></summary>
 
 ### [1. Introduction](#introduction)
 
 ### [2. Context](#context)
 
-### [3. KPIs](#kpis)
+### [3. Objectives](#objectives)
 
 ### [4. Conclusion](#conclusion)
 
 ### [5. References](#references)
 
-# Introduction
+</details></h1>
+
+# 🗣️ Introduction
 
 Internet has become a key part of our lives since its creation. So much so, that without access to the Internet, you are completely off the grid. <br>
 
-In this project, we play the role of a Data Analyst for the fictional company called **Glide**
+Internet access and high-speed connection go hand in hand with the seamless flow of information, empowering individuals and businesses to explore, communicate, and innovate in the digital age.
 
 # Context
 
-![ByteBond](./assets/images/logo.jpg)
+![Logo](./assets/images/logo.jpg)
 
-# KPIs
+#### In this project, we play the role of a Data Analyst for the fictional company called **Glide**.
+
+# Objectives
 
 # Conclusion
 
