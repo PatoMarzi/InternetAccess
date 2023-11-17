@@ -26,7 +26,7 @@
 
 Internet has become a key part of our lives since its creation. So much so, that without access to the Internet, you are completely off the grid. <br>
 
- <p>In this project, we play the role of a Data Analyst for the fictional company called <span  style = 'color: green'> Glide</span> </p>
+In this project, we play the role of a Data Analyst for the fictional company called **Glide**
 
 # Context
 
