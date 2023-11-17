@@ -12,7 +12,7 @@
 <h1 style = 'color: #34B3F1'>Contents</h1>
 <p>
     <ol>
-        <a><li style = 'font-size: 24px' a href = '#introduction'>Introduction</li></a>
+        <a><li style = 'font-size: 24px' a href = '# introduction'>Introduction</li></a>
         <li style = 'font-size: 24px'>Context</li>
         <li style = 'font-size: 24px'>KPIs</li>
         <li style = 'font-size: 24px'>Conclusions</li>
