@@ -48,13 +48,13 @@ What we did for this particular case, was to extract all the data available for 
 
 #### To achieve this, we measured two different KPIs:
 
-1. KPI = ((newAccess - currentAccess) / currentAccess) * 100
+1. KPI = ((newAccess - currentAccess) / currentAccess) \* 100 <br>
    where:
 
 - `newAccess` refers to the number of households with Internet access after the next quarter
 - `currentAccess` refers to the number of households with internet access in the present quarter
 
-2. KPI = ((nextQuarterWirelessConnection - currentQuarterWirelessConnection) / currentQuarterWirelessConnection) * 100
+2. KPI = ((nextQuarterWirelessConnection - currentQuarterWirelessConnection) / currentQuarterWirelessConnection) \* 100
 
 # Conclusion
 
