@@ -34,11 +34,15 @@ We set ourselves to explore the quantity and quality of Argentina's Internet inf
 
 What we did for this particular case, was to extract all the data available for us and transform it before we used it.
 
+- ETL process: we transformed the data we had - deleting null values, duplicates, outliers or any other data that had no relevance to our case of study - in order to fit our needs, with technologies like Pandas, Matplotlib and Seaborn.
+
+- EDA process: Once our data was cleaned and ready to be used, we proceeded to plot it to see if there was any pattern or clue that could lead us to our goal. To further improve our insights, we gathered news such as [this article](https://www.clarin.com/economia/teletrabajo-pandemia-medio-millon-hogares-contrato-internet_0_nn6f0GHvOT.html) to have a better understanding in case we didn't expect our results to be the way that we expected.
+
 # Context
 
 ![Logo](./assets/images/logo.jpg)
 
-#### In this project, we simulate the role of a Data Analyst for a company called '**Glide**'. We were hired by the company to gather data about what difficulties Argentina faces and how can we turn the odds in the country's favour as well as the company's.
+#### In this project, we simulate the role of a Data Analyst for a company called '**Glide**'. We were hired by the company to gather data about what difficulties Argentina faces and how can we turn the odds in the country's favour as well as the company's. 
 
 <br>
 
@@ -54,7 +58,11 @@ What we did for this particular case, was to extract all the data available for 
 - `newAccess` refers to the number of households with Internet access after the next quarter
 - `currentAccess` refers to the number of households with internet access in the present quarter
 
-2. KPI = ((nextQuarterWirelessConnection - currentQuarterWirelessConnection) / currentQuarterWirelessConnection) \* 100
+2. KPI = ((nextQuarterWirelessConnection - currentQuarterWirelessConnection) / currentQuarterWirelessConnection) \* 100 <br>
+   where:
+
+- `nextQuarterWirelessConnection` refers to the number of households with wireless connection after the next quarter
+- `currentQuarterWirelessConnection` refers to the number of households with wireless connection in the present quarter
 
 # Conclusion
 
