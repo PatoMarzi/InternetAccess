@@ -30,11 +30,16 @@ Internet has become a key part of our lives since its creation. So much so, that
 
 Internet access and high-speed connection go hand in hand with the seamless flow of information, empowering individuals and businesses to explore, communicate, and innovate in the digital age.
 
+We set ourselves to explore the quantity and quality of Argentina's Internet infrastructure. Looking at data from the years 2014 to 2022 from the official [ENACOM Website](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/) (National Communications Agency in Argentina)
+
+What we did for this particular case, was to extract all the data available for us and transform it before we used it.
+
+
 # Context
 
 ![Logo](./assets/images/logo.jpg)
 
-#### In this project, we play the role of a Data Analyst for the fictional company called **Glide**.
+#### In this project, we simulate the role of a Data Analyst for a company called **Glide**. We were hired by the company to gather data about what difficulties Argentina faces and how can we turn the odds in the country's favour as well as the company's.
 
 # Objectives
 
