@@ -20,8 +20,6 @@
 
 ### [4. Conclusion](#conclusion)
 
-### [5. References](#references)
-
 </details></h1>
 
 # Introduction
@@ -42,7 +40,7 @@ What we did for this particular case, was to extract all the data available for 
 
 ![Logo](./assets/images/logo.jpg)
 
-#### In this project, we simulate the role of a Data Analyst for a company called '**Glide**'. We were hired by the company to gather data about what difficulties Argentina faces and how can we turn the odds in the country's favour as well as the company's. 
+#### In this project, we simulate the role of a Data Analyst for a company called '**Glide**'. We were hired by the company to gather data about what difficulties Argentina faces and how can we turn the odds in the country's favour as well as the company's.
 
 <br>
 
@@ -58,14 +56,23 @@ What we did for this particular case, was to extract all the data available for 
 - `newAccess` refers to the number of households with Internet access after the next quarter
 - `currentAccess` refers to the number of households with internet access in the present quarter
 
+![Internet Access per 100 houses per year](./assets/images/internet_access_per_100_houses_per_year.png)
+As we see in the previous image, Internet access has seen a non-stop increase in recent years, and with the help of our performance indicator we can know exactly how much this increase represents, year by year and quarter by quarter.
+
 2. KPI = ((nextQuarterWirelessConnection - currentQuarterWirelessConnection) / currentQuarterWirelessConnection) \* 100 <br>
    where:
 
 - `nextQuarterWirelessConnection` refers to the number of households with wireless connection after the next quarter
 - `currentQuarterWirelessConnection` refers to the number of households with wireless connection in the present quarter
+  ![Wireless Connections](./assets/images/pie_wireless.png)
+  Wireless connections for the year 2021
+  ![Wireless Connections](./assets/images/pie_wireless_2.png)
+  Wireless connections for the year 2022
+
+As wee see, wireless connections increased from the year 2021 to the year 2022. We wanted to know how much did increase and, if possible, make that increment greater.
 
 # Conclusion
 
-# References
+Thanks to our exhaustive analysis of the data and its subsequent visualization through PowerBI we discovered that Internet connections did increase a 2%, even more in some cases, as well as less than 2% from various types of connections. Nevertheless, there is an obvious trend of increasing the access throughout the whole country.
 
 <a href = #top >Back to the Top</a>
