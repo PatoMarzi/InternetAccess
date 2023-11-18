@@ -34,14 +34,27 @@ We set ourselves to explore the quantity and quality of Argentina's Internet inf
 
 What we did for this particular case, was to extract all the data available for us and transform it before we used it.
 
-
 # Context
 
 ![Logo](./assets/images/logo.jpg)
 
-#### In this project, we simulate the role of a Data Analyst for a company called **Glide**. We were hired by the company to gather data about what difficulties Argentina faces and how can we turn the odds in the country's favour as well as the company's.
+#### In this project, we simulate the role of a Data Analyst for a company called '**Glide**'. We were hired by the company to gather data about what difficulties Argentina faces and how can we turn the odds in the country's favour as well as the company's.
+
+<br>
 
 # Objectives
+
+#### Glide's main goal is to focus all efforts on getting a 2% raise on Internet access on the next quarter per 100 inhabitants for each province. Apart from that, another vital target is to increase the number of wireless connection. Despite being one of the most popular technologies, the lack of wireless networks in Argentina is surprisingly high, especially in the northern part of the country.
+
+#### To achieve this, we measured two different KPIs:
+
+1. KPI = ((newAccess - currentAccess) / currentAccess) * 100
+   where:
+
+- `newAccess` refers to the number of households with Internet access after the next quarter
+- `currentAccess` refers to the number of households with internet access in the present quarter
+
+2. KPI = ((nextQuarterWirelessConnection - currentQuarterWirelessConnection) / currentQuarterWirelessConnection) * 100
 
 # Conclusion
 
