@@ -63,10 +63,10 @@ As we see in the previous image, Internet access has seen a non-stop increase in
    where:
 
 - `nextQuarterWirelessConnection` refers to the number of households with wireless connection after the next quarter
-- `currentQuarterWirelessConnection` refers to the number of households with wireless connection in the present quarter
-  ![Wireless Connections](./assets/images/pie_wireless.png)
-  Wireless connections for the year 2021
-  ![Wireless Connections](./assets/images/pie_wireless_2.png)
+- `currentQuarterWirelessConnection` refers to the number of households with wireless connection in the present quarter <br>
+  ![Wireless Connections](./assets/images/pie_wireless.png) <br>
+  Wireless connections for the year 2021 <br>
+  ![Wireless Connections](./assets/images/pie_wireless_2.png) <br>
   Wireless connections for the year 2022
 
 As wee see, wireless connections increased from the year 2021 to the year 2022. We wanted to know how much did increase and, if possible, make that increment greater.
