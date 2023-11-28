@@ -8,7 +8,7 @@ st.set_page_config(page_title='Glide - Go Wireless',
                    page_icon='assets\images\logo.jpg', layout='centered')
 
 
-df = pd.read_csv('/Wireless.csv', sep=',')
+df = pd.read_csv('./Wireless.csv', sep=',')
 
 
 st.markdown(f''' 
