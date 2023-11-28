@@ -14,7 +14,7 @@ st.set_page_config(page_title='Glide - Internet Connections',
 st.title('Visualization of Internet Access in Argentina')
 
 
-df = pd.read_csv('internet_access_per_100_houses.csv', sep=',')
+df = pd.read_csv('./internet_access_per_100_houses.csv', sep=',')
 
 
 views = st.radio(':blue[Select The Data To Visualize]',
@@ -104,10 +104,10 @@ elif views == ':white[KPI]':
     # increment = df['Incremental Percentage'].tolist()
     # colors = ['g' if e >= 0 else 'r' for e in increment]
     # st.markdown(colors)
-    
+
     sns.set_style('darkgrid')
     sns.barplot(df[df['Year'] == period3], x='Province',
-                y=df['Incremental Percentage'], errorbar=None )
+                y=df['Incremental Percentage'], errorbar=None)
     plt.ylim(-20, 100)
     plt.xticks(rotation=90)
     st.pyplot(fig)
