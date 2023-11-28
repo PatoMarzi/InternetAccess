@@ -14,7 +14,7 @@ st.set_page_config(page_title='Glide - Internet Connections',
 st.title('Visualization of Internet Access in Argentina')
 
 
-df = pd.read_csv('/internet_access_per_100_houses.csv', sep=',')
+df = pd.read_csv('internet_access_per_100_houses.csv', sep=',')
 
 
 views = st.radio(':blue[Select The Data To Visualize]',
