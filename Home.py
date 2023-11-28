@@ -5,12 +5,12 @@ import pandas as pd
 
 # Set the page config
 st.set_page_config(page_title='Glide',
-                   page_icon='assets\images\logo.jpg', layout='centered')
+                   page_icon='./assets/images/logo.jpg', layout='centered')
 
 # Set the title for the web application
 st.header('We are :blue[Glide]', divider='blue')
 
-st.image('assets\images\logo.jpg')
+st.image('./assets/images/logo.jpg')
 
 with st.expander('ABOUT US'):
     st.markdown(body='''
