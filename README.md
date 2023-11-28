@@ -5,6 +5,7 @@
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Numpy' src='https://img.shields.io/badge/numpy-100000?style=for-the-badge&logo=Numpy&logoColor=2291A9&labelColor=FFFFFF&color=FFFFFF'/></a>
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='streamlit' src='https://img.shields.io/badge/streamlit-100000?style=for-the-badge&logo=streamlit&logoColor=E41D1D&labelColor=FFFFFF&color=E41D1D'/></a>
 
 ---
 
